@@ -1,4 +1,4 @@
-this is for comparing fork example with clone 
+ 
 TERRAFORM CODE TO CREATE AWS ARCHITECTURE : 
 =========================================
 
